@@ -1,0 +1,16 @@
+{
+  "name": "memo-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express で作ったシンプルなメモアプリ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
